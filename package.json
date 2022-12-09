@@ -28,7 +28,7 @@
     "@angular/router": "^5.1.0",
     "angular-bootstrap-md": "^5.1.2",
     "core-js": "^2.4.1",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "rxjs": "^5.5.2",
     "zone.js": "^0.8.19",
     "chart.js": "^2.5.0",
